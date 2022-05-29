@@ -1,0 +1,3 @@
+files:
+  - source: /dist/
+    destination: /var/www/d-test.wdc-dev.com/
